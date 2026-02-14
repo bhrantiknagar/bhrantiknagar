@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhrantik Nagar</h1>
-<h3 align="center">I'm learning HTML, CSS, JS.</h3>
+<h3 align="center">I'm learning HTML, CSS, JS, React.js, Node.js</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhrantiknagar" alt="bhrantiknagar" /></a> </p>
 
