@@ -51,24 +51,6 @@
 </p>
 
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhrantiknagar/bhrantiknagar/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-<!-- 📌 Projects -->
-<h2 align="center">📌 Projects</h2>
-
-<p align="center">
-  🔗 <b>Portfolio Website</b> – Personal portfolio using HTML/CSS <br>
-  🔗 <b>Backend API</b> – Built with Node.js & Express <br>
-  🔗 <b>Database App</b> – MongoDB integration project
-</p>
-
----
-
 <!-- 📫 Contact -->
 <h2 align="center">📫 Connect With Me</h2>
 
