@@ -55,7 +55,7 @@
   <a href="https://github.com/bhrantiknagar">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:bhrantiknagar@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
