@@ -1,12 +1,9 @@
-<!-- 🎬 Typing Intro -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Bhrantik;Full+Stack+Developer;Building+cool+projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=50F77C&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Bhrantik;Full+Stack+Developer;Building+cool+projects+🚀" />
 </p>
 
-<br>
-
-<!-- 👨‍💻 About -->
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
 💻 Full Stack Developer in progress <br>
@@ -15,7 +12,6 @@
 🎯 Consistently learning and shipping projects
 </p>
 
----
 
 <!-- 🚀 Tech Stack -->
 <h2 align="center">🚀 Tech Stack</h2>
@@ -30,47 +26,54 @@
 
 ---
 
-<!-- 📊 Stats + Streak -->
+<!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=react-dark&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=bhrantiknagar&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 📈 Contribution -->
+<!-- 🔥 Streak -->
+<h2 align="center">🔥 Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhrantiknagar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhrantiknagar&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
----
-
 <!-- 📌 Projects -->
 <h2 align="center">📌 Projects</h2>
 
 <p align="center">
-  🔗 <b>Portfolio Website</b> – Personal portfolio <br>
-  🔗 <b>Backend API</b> – Node.js & Express <br>
-  🔗 <b>Database App</b> – MongoDB project
+  🔗 <b>Portfolio Website</b> – Personal portfolio using HTML/CSS <br>
+  🔗 <b>Backend API</b> – Built with Node.js & Express <br>
+  🔗 <b>Database App</b> – MongoDB integration project
 </p>
 
 ---
 
 <!-- 📫 Contact -->
-<h2 align="center">📫 Connect</h2>
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/bhrantiknagar">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="mailto:bhrantiknagar@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-<!-- ⚡ Signature -->
+<!-- 💡 Signature -->
 <h3 align="center">⚡ Building • Learning • Improving</h3>
-  
