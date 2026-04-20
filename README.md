@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=50F77C&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhrantik;Frontend+Developer+;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Bhrantik;Full+Stack+Developer;Building+cool+projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=50F77C&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Bhrantik;Full+Stack+Developer;Building+cool+projects+🚀" />
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
