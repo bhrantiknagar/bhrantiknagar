@@ -57,7 +57,7 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/bhrantiknagar">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:your@email.com">
