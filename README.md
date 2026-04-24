@@ -30,11 +30,11 @@
 
 ---
 
-<!-- 🏆 Trophy -->
-<h2 align="center">🏆 Achievements</h2>
+<!-- 🐍 Snake -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhrantiknagar&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://raw.githubusercontent.com/bhrantiknagar/bhrantiknagar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -54,15 +54,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhrantiknagar&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<!-- 🐍 Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhrantiknagar/bhrantiknagar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
