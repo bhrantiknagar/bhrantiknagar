@@ -35,6 +35,9 @@
 
 ---
 
+
+
+
 <!-- 🔥 Streak -->
 <h2 align="center">🔥 Streak</h2>
 
@@ -44,11 +47,22 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhrantiknagar&theme=react-dark&hide_border=true&area=true&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrantiknagar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🔥 Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhrantiknagar&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 <!-- 📫 Contact -->
