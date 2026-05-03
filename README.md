@@ -43,7 +43,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-alpha-three-59.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrantiknagar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
