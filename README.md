@@ -14,7 +14,7 @@
 
 <p align="center">
 💻 Full Stack Developer in progress <br>
-⚡ Building scalable backend systems with Node.js <br>
+⚡ Building scalable backend systems with Node.js <br> 
 🚀 Exploring MongoDB, APIs & modern web tech <br>
 🎯 Consistently learning and shipping projects
 </p>
