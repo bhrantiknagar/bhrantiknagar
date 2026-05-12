@@ -1,28 +1,35 @@
-<!-- 🔥 Header -->
+<!-- =========================
+✨ HEADER
+========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Bhrantik;Full+Stack+Developer;Building+cool+projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+⚡;Learning+Node.js+%26+MongoDB;Building+Projects+and+Improving+Daily+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=140&section=header"/>
 </p>
 
----
-
-<!-- 👨‍💻 About -->
-<h2 align="center">👨‍💻 About Me</h2>
-
 <p align="center">
-💻 Full Stack Developer in progress <br>
-⚡ Building scalable backend systems with Node.js <br> 
-🚀 Exploring MongoDB, APIs & modern web tech <br>
-🎯 Consistently learning and shipping projects
+  <img src="https://komarev.com/ghpvc/?username=bhrantiknagar&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- 🚀 Tech Stack -->
-<h2 align="center">🚀 Tech Stack</h2>
+# 👨‍💻 About Me
+
+<p align="center">
+
+💻 Learning backend development with Node.js <br>
+⚡ Exploring APIs, databases & authentication <br>
+🚀 Building projects and improving every day <br>
+🎯 Currently focused on understanding backend systems deeply
+
+</p>
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
@@ -30,8 +37,38 @@
 
 ---
 
-<!-- 🐍 Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
+# 📚 Currently Learning
+
+<p align="center">
+
+🔹 Backend Architecture <br>
+🔹 REST APIs <br>
+🔹 Authentication & Security <br>
+🔹 MongoDB & Database Design <br>
+🔹 Real-world Backend Projects
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🔐 Authentication System | Login & signup system with sessions and validation | Node.js, Express |
+| 💬 Realtime Chat App | Simple realtime messaging app | Socket.io, Node.js |
+| 📦 REST API | CRUD API with authentication | Express, MongoDB |
+| 🌐 Portfolio Website | Responsive personal portfolio website | HTML, CSS, JavaScript |
+
+</div>
+
+> More projects coming soon as I continue learning and building 🚀
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhrantiknagar/bhrantiknagar/output/github-contribution-grid-snake-dark.svg" />
@@ -39,18 +76,17 @@
 
 ---
 
-<!-- 📊 Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-alpha-three-59.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats-alpha-three-59.vercel.app/api/top-langs/?username=bhrantiknagar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bhrantiknagar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrantiknagar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- 🔥 Streak -->
-<h2 align="center">🔥 Streak</h2>
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhrantiknagar&theme=tokyonight&hide_border=true"/>
@@ -58,23 +94,40 @@
 
 ---
 
-<!-- 📫 Contact -->
-<h2 align="center">📫 Connect With Me</h2>
+# 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/bhrantiknagar">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:bhrantiknagar@email.com">
-    <img src="https://img.shields.io/badge/Email-1F6FEB?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
+
+<a href="https://github.com/bhrantiknagar">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhrantik-nagar-08a310321/">
+  <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://x.com/Bhrantik_nagar">
+  <img src="https://img.shields.io/badge/X-111111?logo=x&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="mailto:bhrantiknagar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-58A6FF?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-<!-- 💡 Signature -->
-<h3 align="center">⚡ Building • Learning • Improving</h3>
+# ⚡ Quote
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer"/>
+  
+"Consistency beats motivation."
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer"/>
 </p>
