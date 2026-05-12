@@ -49,24 +49,6 @@
 
 </p>
 
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🔐 Authentication System | Login & signup system with sessions and validation | Node.js, Express |
-| 💬 Realtime Chat App | Simple realtime messaging app | Socket.io, Node.js |
-| 📦 REST API | CRUD API with authentication | Express, MongoDB |
-| 🌐 Portfolio Website | Responsive personal portfolio website | HTML, CSS, JavaScript |
-
-</div>
-
-> More projects coming soon as I continue learning and building 🚀
-
----
 
 # 🐍 Contribution Snake
 
