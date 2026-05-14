@@ -102,7 +102,7 @@
 
 <p align="center">
   
-"Consistency beats motivation."
+"No Motivation. Just Discipline And Commits."
 
 </p>
 
