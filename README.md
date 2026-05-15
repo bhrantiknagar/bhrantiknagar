@@ -3,11 +3,11 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+⚡;Learning+Node.js+%26+MongoDB;Building+Projects+and+Improving+Daily+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=140&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=140&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+⚡;Learning+Node.js+%26+MongoDB;Building+Projects+and+Improving+Daily+🚀" />
 </p>
 
 <p align="center">
